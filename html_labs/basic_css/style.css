@@ -1,0 +1,27 @@
+﻿body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #ffffcc;
+    font-family: Verdana, Arial, sans-serif;
+    color: #330000;
+}
+
+#header {
+    background-color: #ccaa66;
+    text-align: center;
+    padding: 1em;
+    color: #000000;
+}
+
+#footer {
+    background-color: #ccaa66;
+    font-style: italic;
+    font-size: 0.6em;
+    text-align: center;
+    color: #000000;
+}
+
+#menu {
+    text-align: center;
+    padding: 1em;
+}
